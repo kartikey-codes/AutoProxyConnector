@@ -29,7 +29,7 @@ export function GridBackgroundDemo() {
       <div className="flex flex-col items-center justify-center md:flex-row md:justify-between relative w-full px-8 pb-8 md:pb-4">
         {/* Description */}
         <div className="text-lg text-gray-300 md:text-left md:mr-4 mb-4 md:mb-0 max-w-[70%] md:w-auto">
-          Proxy Auto Connector is a tool designed to streamline the process of connecting to <span className="font-bold text-yellow-500">Cloudflare WARP</span> on Windows. It simplifies the setup and scheduling of tasks, ensuring seamless and secure connectivity to Cloudflare WARP, thus enhancing your online privacy and security.
+          Proxy Auto Connector is a tool designed to automate the process of connecting to <span className="font-bold text-yellow-500">Cloudflare WARP</span> on Windows. It simplifies the setup and scheduling of tasks, ensuring seamless and secure connectivity to Cloudflare WARP, thus enhancing your online privacy and security.
         </div>
         {/* Download button */}
         <div className="flex flex-col items-center md:items-start w-full px-8 mt-2">
