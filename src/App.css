@@ -1,0 +1,14 @@
+/* styles.css */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-zoom {
+  cursor: zoom-in;
+}
+.filled-background {
+  background-color: lightblue; /* Set the desired background color */
+  padding: 5px; /* Add padding for spacing */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  display: inline-block; /* Display as inline-block to fill the background */
+}
