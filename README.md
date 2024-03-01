@@ -9,8 +9,8 @@ Auto Proxy Connector is an open-source software tool designed to simplify the pr
 
 ## Features
 
-- **Easy Installation**: Users can download Cloudflare WARP for Windows directly from the application.
-- **Automated Connection**: Set up a scheduled task to connect to Cloudflare's WARP service daily at a specified time.
+- **Easy Installation**
+- **Automated Connection**: Set up a scheduled task to connect to Cloudflare's WARP service daily at a specified time by just executing one file once.
 - **Customization Options**: Adjust connection time and verify configuration through Windows Task Scheduler.
 
 ## Usage
