@@ -39,9 +39,8 @@ Auto Proxy Connector is an open-source software tool designed to simplify the pr
 
 ## Acknowledgements
 
-Special thanks to the developers of Cloudflare WARP for providing the underlying service and inspiration for this project
-[Cloudflare](https://www.cloudflare.com/)
-[Manu Arora]((https://github.com/manuarora700))
+- [Cloudflare](https://www.cloudflare.com/) for providing the underlying service and inspiration for this project.
+- [Manu Arora](https://github.com/manuarora700) for building Accertify UI, whose components have been used in this project.
 
 ---
 Made with ❤️ by Kartikey
