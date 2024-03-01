@@ -34,7 +34,7 @@ export function GridBackgroundDemo() {
         {/* Download button */}
         <div className="flex flex-col items-center md:items-start w-full px-8 mt-2">
           <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded">
-            <a href="ProxyAutoConnector.exe" download>
+            <a href="https://drive.google.com/file/d/12JrQSuzLPkmWqsbmid6TfCI3wRrffEWg/view?usp=sharing" download>
               Download ProxyAutoConnector
             </a>
           </button>
