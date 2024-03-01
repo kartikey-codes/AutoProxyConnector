@@ -37,19 +37,9 @@ Auto Proxy Connector is an open-source software tool designed to simplify the pr
    - To adjust the connection time, go to Actions and edit the trigger to your preferred time.
    - Verify the path of the `connect_cloudflare.exe` in the Actions tab of the Windows Task Scheduler.
 
-## Contributing
-
-Contributions to Auto Proxy Connector are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests.
-
-For major changes, please open an issue first to discuss potential updates.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
-Special thanks to the developers of Cloudflare WARP for providing the underlying service and inspiration for this project.
+Special thanks to the developers of Cloudflare WARP for providing the underlying service and inspiration for this project
 
 ---
 Made with ❤️ by Kartikey
