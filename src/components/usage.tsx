@@ -38,6 +38,7 @@ export function Usage() {
           <a href="https://github.com/kartikey-codes" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:underline mx-4">GitHub</a>
           <a href="https://www.instagram.com/kartickeyy/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:underline mx-4">Instagram</a>
         </div>
+        <div className="text-gray-300 text-center mt-4">© 2024 Kartikey. All Rights Reserved.</div>
       </div>
     </div>
   );
