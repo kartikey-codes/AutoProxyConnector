@@ -1,12 +1,12 @@
 import './App.css';
 import { GridBackgroundDemo } from './components/GridBackground';
-import { Usage } from './components/usage'; // Importing the usage component
+import Usage from './components/usage'; // Corrected import statement for the Usage component
 
 function App() {
   return (
     <>
       <GridBackgroundDemo />
-      <Usage /> {/* Using the usage component */}
+      <Usage /> {/* Using the Usage component */}
     </>
   );
 }

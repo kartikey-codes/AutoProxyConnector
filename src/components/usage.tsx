@@ -1,4 +1,10 @@
-export function Usage() {
+import React from 'react';
+
+interface UsageProps {
+  // Define props if any
+}
+
+const Usage: React.FC<UsageProps> = ({}) => {
   return (
     <div className="min-h-screen w-full bg-black bg-grid-white/[0.2] relative flex flex-col items-center pt-8 overflow-hidden">
       <div className="absolute inset-0 pointer-events-none bg-black" style={{ maskImage: 'radial-gradient(ellipse at center, transparent 70%, white)' }}></div>
@@ -43,3 +49,5 @@ export function Usage() {
     </div>
   );
 }
+
+export default Usage;
